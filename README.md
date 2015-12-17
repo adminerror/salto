@@ -1,4 +1,4 @@
-# <p align="center">merbot
+# <p align="center">SiS tnx for MerBot
 
 <p align="center">**A Telegram Group Peace Keeper Bot**
 
